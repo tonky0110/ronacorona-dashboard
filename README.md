@@ -9,9 +9,13 @@ workon 이름
 라이브러리 설치
 pandas - pip install pandas
 plotit dash - pip install dash==1.14.0
+jupyter - pip install jupyter
 
 코로나 바이러스 정보 데시보드
 https://bit.ly/31YewhF
 
 데일리 리포트
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+
+jupyter실행
+jupyter-notebook
