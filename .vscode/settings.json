@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/tonky0110/.virtualenvs/ronacorona/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
